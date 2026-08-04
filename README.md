@@ -36,26 +36,35 @@ Brewery floor staff previously tracked wholesale distributor orders using paper 
     <img width="910" height="882" alt="image" src="https://github.com/user-attachments/assets/611ce7ed-3e0f-401a-8adc-85896c6b7f6b" />
 
 
- 3. Order Details (empty state) 
-  ![Empty State](./screenshots/02-order-details-empty.png) 
+ 2. Order Details (empty state) 
 
- 4. Order Details (with products) 
-  ![Order Details Filled](./screenshots/03-order-details-filled.png) 
+    <img width="911" height="608" alt="image" src="https://github.com/user-attachments/assets/9be30e0d-e9df-4426-9f35-f9f8a7dae63a" />
 
- 5. Validation errors 
- ![Validation Errors](./screenshots/04-validation-errors.png) 
 
- 6. Delivery & Payment 
-![Delivery Payment](./screenshots/05-delivery-payment.png) 
+ 3. Order Details (with products)
 
- 7. Review & Submit 
- ![Review](./screenshots/06-review.png) 
+    <img width="935" height="652" alt="image" src="https://github.com/user-attachments/assets/21444d29-9a79-4b0b-b7e8-a724c288915b" />
 
- 8. Submitting (loading state) 
- ![Loading](./screenshots/07-loading.png) 
 
- 9. Success confirmation 
-  ![Success](./screenshots/08-success.png) 
+ 4. Validation errors
+    
+    <img width="934" height="845" alt="image" src="https://github.com/user-attachments/assets/d321e33a-8450-4faa-9803-7c19787210ad" />
+
+
+ 5. Delivery & Payment
+    
+   <img width="924" height="824" alt="image" src="https://github.com/user-attachments/assets/23bd52d4-c63c-4b92-928f-66eb809bc220" />
+
+
+ 6. Review & Submit
+     
+   <img width="866" height="873" alt="image" src="https://github.com/user-attachments/assets/497d3bc0-dd80-4105-9023-b4be8762a0ac" />
+
+
+ 7. Success confirmation
+     
+    <img width="912" height="434" alt="image" src="https://github.com/user-attachments/assets/88a2c34a-ec49-43e1-9802-5e7d9ac2802e" />
+
 
 
 ### Prerequisites
