@@ -31,28 +31,30 @@ Brewery floor staff previously tracked wholesale distributor orders using paper 
 
 ## Screenshots
 
- 1. Business Info 
-  ![Business Info](./screenshots/01-business-info.png) 
+ 1. Business Info
 
- 2. Order Details (empty state) 
+    <img width="910" height="882" alt="image" src="https://github.com/user-attachments/assets/611ce7ed-3e0f-401a-8adc-85896c6b7f6b" />
+
+
+ 3. Order Details (empty state) 
   ![Empty State](./screenshots/02-order-details-empty.png) 
 
- 3. Order Details (with products) 
+ 4. Order Details (with products) 
   ![Order Details Filled](./screenshots/03-order-details-filled.png) 
 
- 4. Validation errors 
+ 5. Validation errors 
  ![Validation Errors](./screenshots/04-validation-errors.png) 
 
- 5. Delivery & Payment 
+ 6. Delivery & Payment 
 ![Delivery Payment](./screenshots/05-delivery-payment.png) 
 
- 6. Review & Submit 
+ 7. Review & Submit 
  ![Review](./screenshots/06-review.png) 
 
- 7. Submitting (loading state) 
+ 8. Submitting (loading state) 
  ![Loading](./screenshots/07-loading.png) 
 
- 8. Success confirmation 
+ 9. Success confirmation 
   ![Success](./screenshots/08-success.png) 
 
 
